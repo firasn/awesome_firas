@@ -20,4 +20,5 @@ A curated list of my interests !
 ## Human minds I admire
 - Elon Musk, Steven Pinker, Michael shermer, Sam Harris, Brian Cox, Jim Al-Khalili
 - Carl Sagan, Richard Feynman, Isaac asimov, Albert Einstein, Nikola Tesla, Bertrand Russell, David Bohm
+- 14th Dalai Lama, Thich Nhat Hanh, Matthieu Ricard
 
