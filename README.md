@@ -18,7 +18,7 @@ A curated list of my interests !
 - [Guided Meditation](https://www.samharris.org/podcast/item/mindfulness-meditation)
 
 ## Human minds I admire
-- Elon Musk, Steven Pinker, Michael shermer, Sam Harris, Brian Cox, Jim Al-Khalili
-- Carl Sagan, Richard Feynman, Isaac asimov, Albert Einstein, Nikola Tesla, Bertrand Russell, David Bohm
+- [Elon Musk](https://twitter.com/elonmusk?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor), [Steven Pinker](https://twitter.com/sapinker), [Michael Shermer](https://twitter.com/michaelshermer), [Brian Cox](https://twitter.com/ProfBrianCox), [Jim Al-Khalili](https://twitter.com/jimalkhalili)
+- Carl Sagan, Richard Feynman, Isaac Asimov, Albert Einstein, Nikola Tesla, Bertrand Russell, David Bohm
 - 14th Dalai Lama, Thich Nhat Hanh, Matthieu Ricard
 
